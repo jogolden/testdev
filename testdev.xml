@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<xex>
+   <gameregion>
+     <na/>
+   </gameregion>
+   <section file="xbdm.xex" name="FFFF0001" memory="RW"/>
+   <format>
+     <compressed/>
+   </format>
+</xex>
